@@ -63,6 +63,7 @@ a {
 }
 
 .address {
+    font-style: normal;
 }
 
 .address-list {
@@ -78,7 +79,6 @@ a {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    font-style: normal;
     letter-spacing: 0.02em;
 }
 
@@ -167,7 +167,7 @@ a {
 }
 
 .team-list-item {
-    
+    background-color: #FFFFFF;
 }
 
 .team-subtitle {

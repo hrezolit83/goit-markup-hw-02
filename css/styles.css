@@ -23,7 +23,7 @@ a {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -33,17 +33,7 @@ a {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;#2E2F42;
-}
-
-.logo-span-studio {
-    color: #2E2F42;
-    font-family: "Raleway", sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 
@@ -68,6 +58,10 @@ a {
     color: #404BBF; 
 }
 
+.header-menu-link:hover, .header-menu-link:focus {
+    color: #404bbf ;
+}
+
 .address {
 }
 
@@ -84,7 +78,12 @@ a {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
+    font-style: normal;
     letter-spacing: 0.02em;
+}
+
+.address-link:hover, .address-link:focus {
+    color: #404bbf;
 }
 
 .address-link:active {
@@ -100,6 +99,7 @@ a {
     line-height: 1.07;
     font-weight: 700;
     letter-spacing: 0.02em;
+    text-align: center;
 
 }
 
@@ -119,6 +119,7 @@ a {
 }
 
 .features {
+    background-color: #FFFFFF;
 }
 
 .features-list {
@@ -152,6 +153,8 @@ a {
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
 
 }
 
@@ -191,6 +194,9 @@ a {
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+
     
 }
 
@@ -227,7 +233,7 @@ a {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -238,7 +244,7 @@ a {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }

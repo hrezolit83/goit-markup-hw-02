@@ -19,9 +19,6 @@ a {
 }
 
 .header-logo {
-}
-
-.logo-span-web {
     color: #4D5AE5;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
@@ -29,6 +26,16 @@ a {
     line-height: 1.16;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+}
+
+.logo-span {
+    color: #2E2F42;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;#2E2F42;
 }
 
 .logo-span-studio {
@@ -216,11 +223,8 @@ a {
 }
 
 .footer-link {
-}
-
-.footer-logo-web {
     color: #4D5AE5;
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.16;
@@ -228,9 +232,10 @@ a {
     text-transform: uppercase;
 }
 
-.footer-logo-studio {
+
+.footer-span {
     color: #F4F4FD;
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.16;
@@ -242,6 +247,6 @@ a {
     color: #F4F4FD;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02;
-    
+    letter-spacing: 0.02em;
 }
+
